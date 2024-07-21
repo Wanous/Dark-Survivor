@@ -7,18 +7,16 @@
   <img alt="License" src="https://img.shields.io/github/license/Wanous/Dark-Survivor?style=plastic">
 </div>
 
-Graphe Studio est un logiciel permettant la création de graphe orienté comme non orienté 
-de manière simple ,rapide et efficace destiné à de multiple usage .
-Ce logiciel permet non seulement de créer des graphes mais aussi d'intéragire avec en 
-appliquant la théorie des graphes .
+Dark Survivor is a game where your fighting differents waves of various ennemies (3 to be honest). The more your progress, more the ennemies will be **stronger** and **faster**.
+ Your objectif is to survive the most waves you can. Every game you playing is different because the map is generated with the Perlin noise and the waves of ennemies are completely random.
 
-## Comment utiliser
+## How to play it 
 
 - Download the latest version of Python with [this link](https://www.python.org/downloads/)
-- Téléchargez ce dépôt en utilisant le bouton de téléchargement
-- Ouvrez un terminal dans le dossier où vous avez téléchargé le dépôt
-- Exécutez la commande `python -m pip install -r requirements.txt` pour installer les dépendances
-- Exécutez la commande `python main.py` pour lancer le programme
+- Download this depot using the download button
+- Open a terminal in the folder where you have download the depot
+- Execute the command `python -m pip install -r requirements.txt` to install the dependencies
+- Execute the command  `python main.py` to lunch the programm
 
 ## Interface
 Le logiciel débutera par une fenêtre dans laquelle vous pourrez choisir un type de graphe à crée 
@@ -51,20 +49,19 @@ Voici à quoi ressemble ces menus :
   <img alt="Image du menu de création d'un noeud" height="25%" width="25%" src="photos/CreationNoeud.png">
 </div>
 
-## Menu
+## Controls
 
-Graphe Studio contient une barre de menu dans lequel vous trouverez tout ce qu'il vous faut pour configurer 
-vos préférences comme sauvegarder votre graphe .
+Here are the buttons to play the game  :
 
-Voici un tableau contenant les noms et rôles de chaque menu de la barre :
-
-| Menu | rôle |
+| Button | Action |
 | ------ | ------ |
-| Fichier | Menu permettant de sauvegarder/importer un graphe qui est un fichier `.graf` ,de commmencer un nouveau graphe ,de prendre une photo d'un graphe en `.png` et de quitter le logiciel .|
-| Doc | Menu contenant des informations sur les types de graphes que contient le logiciel pour aider.Pratique pour ceux qui ne connaissent pas ou oublié ce que sont les graphes et les différents types de ces derniers présent dans le logiciel .  |
-| Console |  Menu permettant l'ouverture de la console ,un outil pour effectuer des opérations avancés sur un graphe comme un parcours en profondeur par exemple .  |
-| Preferences | Menu permettant de choisir la couleur du tableur et du canevas ainsi que de faire apparaître ou disparaître des informations sur le canevas pour une meilleurs visibilité .Il donne aussi la possiblité de pouvoir sauvegarder les préférences . |
-| Projet | Menu affichant un simple message qui indique que c'est un projet réaliser dans le cadre d'un concours|
+| Z↗S↘Q→D←| Move the character.|
+| SPACE | Role (make you invincible a short moment).  |
+| Left click |  Attack (The direction of the attack is based on the position of the mouse).  |
+| M | Show the map. |
+|ESCAPE| Put the pause menu where you can quit.|
+| F | Enable Developer Mod to see more details. |
+| A (during Devmod)| Spawn monster.|
 
   
 ### Raccourci
