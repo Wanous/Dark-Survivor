@@ -1,10 +1,10 @@
-# Graphe Studio
+# Dark Survivor
 # ![Logo.png](photos/Logo.png)
 
 <div align=center>
-  <img alt="Taille du code GitHub" src="https://img.shields.io/github/languages/code-size/Wanous/Graphe-Studio?label=taille%20du%20code">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Wanous/Graphe-Studio?logo=github&style=plastic">
-  <img alt="License" src="https://img.shields.io/github/license/Wanous/Graphe-Studio?style=plastic">
+  <img alt="Taille du code GitHub" src="https://img.shields.io/github/languages/code-size/Wanous/Dark-Survivor?label=taille%20du%20code">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Wanous/Dark-Survivor?logo=github&style=plastic">
+  <img alt="License" src="https://img.shields.io/github/license/Wanous/Dark-Survivor?style=plastic">
 </div>
 
 Graphe Studio est un logiciel permettant la création de graphe orienté comme non orienté 
@@ -14,7 +14,7 @@ appliquant la théorie des graphes .
 
 ## Comment utiliser
 
-- Téléchargez Python 3.10 à partir de [ce lien](https://www.python.org/downloads/)
+- Download the latest version of Python with [this link](https://www.python.org/downloads/)
 - Téléchargez ce dépôt en utilisant le bouton de téléchargement
 - Ouvrez un terminal dans le dossier où vous avez téléchargé le dépôt
 - Exécutez la commande `python -m pip install -r requirements.txt` pour installer les dépendances
