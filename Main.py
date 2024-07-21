@@ -49,7 +49,7 @@ class Game:
     def __init__(self):
         pygame.init()
         pygame.display.set_caption(TITLE)
-        pygame.mixer.music.load('Ressource\Musique\Menu\menu.WAV')
+        pygame.mixer.music.load('Ressource\Musique\Menu\menu.mp3')
         pygame.mixer.music.play(-1)
 
         self.origine=[X_CENTER//2,Y_CENTER//2]
