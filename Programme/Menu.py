@@ -33,8 +33,8 @@ class Menu:
                             'Game_over':[button((600, 300),(200, 150),(0, 0, 0),(20,20,20),self.change,'main','The End',50,[255,255,255])]}
     
 #-------Musique des différents menus    
-        self.musique={'game':'Ressource\Musique\Jeu\Battle!!!.WAV',
-                      'main':'Ressource\Musique\Menu\menu.WAV',
+        self.musique={'game':'Ressource\Musique\Jeu\Battle!!!.mp3',
+                      'main':'Ressource\Musique\Menu\menu.mp3',
                       'pause':None,
                       'Game_over':None}
     def active(self):
