@@ -7,16 +7,6 @@
   <img alt="License" src="https://img.shields.io/github/license/Wanous/Dark-Survivor?style=plastic">
 </div>
 
-<style>
-        .container {
-            display: flex;
-            align-items: center; /* Pour aligner verticalement l'image et le texte */
-        }
-        .container img {
-            margin-right: 10px; /* Pour ajouter de l'espace entre l'image et le texte */
-        }
-</style>
-
 Dark Survivor is a game where your fighting differents waves of various ennemies (3 to be honest). The more your progress, more the ennemies will be **stronger** and **faster**.
  Your objectif is to survive the most waves you can. Every game you playing is different because the map is generated with the Perlin noise and the waves of ennemies are completely random.
 
@@ -28,32 +18,7 @@ Dark Survivor is a game where your fighting differents waves of various ennemies
 - Execute the command `python -m pip install -r requirements.txt` to install the dependencies
 - Execute the command  `python main.py` to lunch the programm
 
-## Interface
-Le logiciel débutera par une fenêtre dans laquelle vous pourrez choisir un type de graphe à crée 
-ou vous pouvez directement en importer un .
-
-Suite à cela vous serez accueilli par l'interface principale dans laquelle vous pourrez laisser
-libre cours à votre créativité pour votre graphe .Vous y retrouverez un tableur dans lequel il sera afficher les informations
-des noeuds de votre graphe puis un canevas qui illustrera votre graphe et permetra d'intéragir avec celui-ci.
-Aussi l'interface de l'application a été produit avec la bibliothèque Tkinter et est complétement redimensionnable à votre souhait .
-
-Voici une photo pour illuster l'interface en mettant en valeur les possibilités offertes :
-
 <div align=center><img alt="Image de l'interface" height="50%" width="50%" src="photos/Interface.png"></div>
-(Dans cette exemple un fichier `.graf` à été importé)
-
-
-
-## Interragir avec votre graphe 
-Il est possible d'ajouter,de supprimer ou même de modifier un noeud de 
-votre graphe à partir de quelques cliques :
-
-- `Clic droit sur un noeud` : Modifier ou supprimer un noeud
-- `Clic droit hors d'un noeud` : Ajouter un noeud
-- `Clic gauche sur un noeud` : Permet de sélectionner un noeud pour le déplacer
-
-Voici à quoi ressemble ces menus :
-
 
 ## Controls
 <div class="container">
@@ -70,22 +35,6 @@ Voici à quoi ressemble ces menus :
   | `A` (during Devmod)| Spawn monster.|
 
 </div>
-
-### Raccourci
-Quelques raccourcies sont aussi disponible :
-#### Raccourcis pour des sous-menus de la barre de menu
-- `ctrl + s` : sauvegarder un graphe
-- `ctrl + o` : importer un graphe
-- `ctrl + n` : commencer un nouveau graphe
-
-- #### Raccourcis pour la console
-- `flèche du haut` : ancienne commande (comme dans une invite de commande)
-- `flèche du bas` : supprime la commande
-- `entrée` : envoie la commande
-
-## Extension .graf 
-Graphe Studio posséde sa propre extension de fichier nommée `.graf` .Cela permet de relier ce type de fichier à l'application
-  
 
 
 
