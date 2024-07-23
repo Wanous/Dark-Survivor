@@ -45,8 +45,7 @@ votre graphe à partir de quelques cliques :
 Voici à quoi ressemble ces menus :
 
 <div align=center>
-  <img alt="Image du menu d'édition d'un noeud" height="25%" width="25%" src="photos/EditionNoeud.png">
-  <img alt="Image du menu de création d'un noeud" height="25%" width="25%" src="photos/CreationNoeud.png">
+  <img alt="Gameplay" height="25%" width="25%" src="photos/Gameplay.gif">
 </div>
 
 ## Controls
