@@ -7,6 +7,16 @@
   <img alt="License" src="https://img.shields.io/github/license/Wanous/Dark-Survivor?style=plastic">
 </div>
 
+<style>
+        .container {
+            display: flex;
+            align-items: center; /* Pour aligner verticalement l'image et le texte */
+        }
+        .container img {
+            margin-right: 10px; /* Pour ajouter de l'espace entre l'image et le texte */
+        }
+</style>
+
 Dark Survivor is a game where your fighting differents waves of various ennemies (3 to be honest). The more your progress, more the ennemies will be **stronger** and **faster**.
  Your objectif is to survive the most waves you can. Every game you playing is different because the map is generated with the Perlin noise and the waves of ennemies are completely random.
 
@@ -44,25 +54,23 @@ votre graphe à partir de quelques cliques :
 
 Voici à quoi ressemble ces menus :
 
-<div align=center>
-  <img alt="Gameplay" height="25%" width="25%" src="photos/Gameplay.gif">
-</div>
 
 ## Controls
-
-Here are the buttons to play the game  :
-
-| Button | Action |
-| ------ | ------ |
-| Z↗S↘Q→D←| Move the character.|
-| SPACE | Role (make you invincible a short moment).  |
-| Left click |  Attack (The direction of the attack is based on the position of the mouse).  |
-| M | Show the map. |
-|ESCAPE| Put the pause menu where you can quit.|
-| F | Enable Developer Mod to see more details. |
-| A (during Devmod)| Spawn monster.|
-
+<div class="container">
+  <img alt="Gameplay" align= 'right' height="25%" width="25%" src="photos/Gameplay.gif">
   
+  | Button | Action |
+  | ------ | ------ |
+  | `Z↗S↘Q→D←`| Move the character.|
+  | `SPACE` | Role (make you invincible a short moment).  |
+  | `Left click` |  Attack (The direction of the attack is based on the position of the mouse).  |
+  | `M` | Show the map. |
+  |`ESCAPE`| Put the pause menu where you can quit.|
+  | `F` | Enable Developer Mod to see more details. |
+  | `A` (during Devmod)| Spawn monster.|
+
+</div>
+
 ### Raccourci
 Quelques raccourcies sont aussi disponible :
 #### Raccourcis pour des sous-menus de la barre de menu
