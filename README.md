@@ -33,7 +33,10 @@ Dark Survivor is a game where your fighting differents waves of various ennemies
 | `F` | Enable Developer Mod to see more details. |
 | `A` (during Devmod)| Spawn monster.|
 
+## About
 
+Dark Survivor is a project I made for school so you can download it and do whatever you want with the code. I don't gonna return 
+to the programmation of this game because I have more important and recent project so I give it.
 
 
 
