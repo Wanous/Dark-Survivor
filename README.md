@@ -21,7 +21,7 @@ Dark Survivor is a game where your fighting differents waves of various ennemies
 <div align=center><img alt="Image de l'interface" height="50%" width="50%" src="photos/Interface.png"></div>
 
 ## Controls
-<div class="container">
+<div >
   <img alt="Gameplay" align= 'right' height="25%" width="25%" src="photos/Gameplay.gif">
   
   | Button | Action |
