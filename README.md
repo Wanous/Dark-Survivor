@@ -21,21 +21,19 @@ Dark Survivor is a game where your fighting differents waves of various ennemies
 <div align=center><img alt="Image de l'interface" height="50%" width="50%" src="photos/Interface.png"></div>
 
 ## Controls
-<img alt="Gameplay" align="left"  height="20%" width="20%" src="photos/Gameplay.gif">
-<div width="20%" height="20%">
-  
-  
-  | Button | Action |
-  | ------ | ------ |
-  | `Z↗S↘Q→D←`| Move the character.|
-  | `SPACE` | Role (make you invincible a short moment).  |
-  | `Left click` |  Attack (The direction of the attack is based on the position of the mouse).  |
-  | `M` | Show the map. |
-  |`ESCAPE`| Put the pause menu where you can quit.|
-  | `F` | Enable Developer Mod to see more details. |
-  | `A` (during Devmod)| Spawn monster.|
+<img alt="Gameplay" align="right"  height="20%" width="20%" src="photos/Gameplay.gif">
 
-</div>
+| Button | Action |
+| ------ | ------ |
+| `Z↗S↘Q→D←`| Move the character.|
+| `SPACE` | Role (make you invincible a short moment).  |
+| `Left click` |  Attack (The direction is based on the position of the mouse).  |
+| `M` | Show the map. |
+|`ESCAPE`| Put the pause menu where you can quit.|
+| `F` | Enable Developer Mod to see more details. |
+| `A` (during Devmod)| Spawn monster.|
+
+
 
 
 
