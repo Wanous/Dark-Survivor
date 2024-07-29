@@ -18,7 +18,6 @@ Dark Survivor is a game where your fighting differents waves of various ennemies
 - Execute the command `python -m pip install -r requirements.txt` to install the dependencies
 - Execute the command  `python main.py` to lunch the programm
 
-<div align=center><img alt="Image de l'interface" height="50%" width="50%" src="photos/Interface.png"></div>
 
 ## Controls
 <img alt="Gameplay" align="right"  height="20%" width="20%" src="photos/Gameplay.gif">
